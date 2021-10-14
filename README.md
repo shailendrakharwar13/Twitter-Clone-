@@ -12,18 +12,10 @@ npm install
 quasar dev
 ```
 
-### Lint the files
-```bash
-npm run lint
-```
-
 ### Build the app for production
 ```bash
 quasar build
 ```
-
-### Customize the configuration
-See [Configuring quasar.conf.js](https://v2.quasar.dev/quasar-cli/quasar-conf-js).
 
 
 ### Features Of the App
@@ -41,10 +33,7 @@ See [Configuring quasar.conf.js](https://v2.quasar.dev/quasar-cli/quasar-conf-js
 
 ### Some screenshots of the Switter App 
 
-![Uploading Screenshot (1476).png…](
-![Screenshot (1478)](https://user-images.githubusercontent.com/51224796/137301719-9a159d11-784a-4929-8e6e-d60f4c3cf047.png)
-![Screenshot (1480)](https://user-images.githubusercontent.com/51224796/137301742-fd1dbb78-2a91-4887-ad4e-2b4baba1bc8e.png)
-)
+
 
 
 
