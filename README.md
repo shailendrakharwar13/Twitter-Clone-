@@ -34,7 +34,7 @@ quasar build
 ### Some screenshots of the Switter App 
 
 ![Screenshot (1504)](https://user-images.githubusercontent.com/51224796/137327995-83783a08-9a7b-4026-88c0-025e130583bf.png)
-<-----------------------------------! Main Page of Switter Application-------------------------------------->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Main Page of Switter Application
 ![Screenshot (1505)](https://user-images.githubusercontent.com/51224796/137328013-8b6cbaa0-3a16-4f40-a66c-167a5414bc14.png)
                                       writing a tweet and liking the tweet
 ![Screenshot (1506)](https://user-images.githubusercontent.com/51224796/137328025-aa443963-1076-4862-81bd-ad58abe89f19.png)
